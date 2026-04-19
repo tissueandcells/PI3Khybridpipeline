@@ -1,0 +1,15 @@
+# MT-GNN v1 — baseline configuration
+variant: v1
+in_dim: 22                # baseline atom features (atom type, degree, hybrid, 4 scalar)
+hidden_dim: 256
+dropout: 0.2
+batch_size: 64
+lr: 1.0e-3
+wd: 1.0e-5
+epochs: 100
+patience: 25
+loss: masked_mse
+weighting: none           # no per-isoform weighting
+ranking_loss_weight: 0.0
+seed: 42
+checkpoint_name: mtgnn_v1.pt

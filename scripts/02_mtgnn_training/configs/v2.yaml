@@ -1,0 +1,20 @@
+# MT-GNN v2 — selectivity-aware configuration
+variant: v2
+in_dim: 32                # extended features: +chirality, +charge bin, +ring size, +H count
+hidden_dim: 256
+dropout: 0.2
+batch_size: 64
+lr: 1.0e-3
+wd: 1.0e-5
+epochs: 200
+patience: 30
+loss: masked_mse
+weighting: inverse_frequency
+isoform_weights:
+  alpha: 0.84
+  beta:  1.39
+  delta: 0.86
+  gamma: 1.19
+ranking_loss_weight: 0.3  # auxiliary pairwise ranking loss
+seed: 42
+checkpoint_name: mtgnn_v2.pt
