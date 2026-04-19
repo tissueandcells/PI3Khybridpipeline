@@ -1,0 +1,6 @@
+isoform,n_assigned,pct_assigned,mean_delta_delta_G,min_delta_delta_G,median_affinity,best_affinity,n_exceeding_1kcal_threshold
+PI3Kα,523,82.0,-0.48,-1.95,-9.55,-14.75,37
+PI3Kβ,41,6.4,-0.18,-0.64,-9.25,-10.59,0
+PI3Kδ,29,4.5,-0.17,-0.69,-9.11,-10.43,0
+PI3Kγ,45,7.1,-0.18,-0.69,-9.43,-10.54,0
+Total,638,100.0,-0.42,-1.95,-9.36,-14.75,37

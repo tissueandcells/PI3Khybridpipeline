@@ -1,0 +1,8 @@
+isoform,chembl_target_id,n_compounds,mean_pic50,sd_pic50,label_density
+PI3Kα,CHEMBL4005,7267,6.68,1.19,Rich
+PI3Kβ,CHEMBL3145,2560,6.37,1.22,Limited
+PI3Kδ,CHEMBL3130,6784,7.33,1.22,Rich (highest mean)
+PI3Kγ,CHEMBL3267,3620,6.44,1.24,Moderate
+all_4_labels,-,1343,,,Gold-standard paired
+at_least_2_labels,-,3996,,,Transfer learning signal
+total_unique,-,12601,,,-

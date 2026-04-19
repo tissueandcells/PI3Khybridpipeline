@@ -1,0 +1,10 @@
+compound,expected_selectivity,pic50_alpha,pic50_beta,pic50_delta,pic50_gamma,reliability,scaffold_split,notes
+PI-103,pan,8.17,8.15,8.17,7.32,reliable,train,
+Copanlisib,pan,9.30,8.43,8.48,8.77,reliable,novel,approved drug Phase 4
+Alpelisib,PI3Kα,8.30,5.92,6.54,6.60,reliable,train,approved drug Phase 4
+Serabelisib,PI3Kα,7.82,5.79,5.67,6.06,reliable,train,Phase 2
+AZD6482,PI3Kβ,6.06,7.40,7.10,5.96,reliable,train,preclinical
+TGX-221,PI3Kβ,5.24,7.52,6.33,5.00,reliable,train,tool compound
+Duvelisib,PI3Kδ,5.80,7.07,8.60,7.57,reliable,val,approved drug Phase 4
+Taselisib,PI3Kα,8.40,8.40,8.40,8.40,suspect,test,single-measurement values on β/δ/γ
+Eganelisib,PI3Kγ,5.70,5.70,5.61,5.70,suspect,train,ChEMBL inconsistent with published γ-selectivity

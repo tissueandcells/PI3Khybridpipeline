@@ -1,0 +1,13 @@
+cpd_id,chembl_id,canonical_smiles,name_status,isoform_assignment,affinity_alpha,affinity_beta,affinity_delta,affinity_gamma,delta_delta_G,mw,logp,hbd,hba,rotb,tpsa,pharmacophore_overlap,hbond_count,hydrophobic_contacts
+CPD_0636,CHEMBL2057360,CC(C)(C)NS(=O)(=O)c1cncc(-c2ccc3nc(NC(=O)NCc4ccccc4)nn3c2)c1,research,PI3Kα,-11.01,-8.98,-8.62,-9.05,-1.951,479.6,3.19,3,6,6,130.4,0.455,4,9
+CPD_0015,CHEMBL2396661,Cc1nc(NC(=O)N2CCC[C@H]2C(N)=O)sc1-c1ccnc(C(C)(C)C(F)(F)F)c1,alpelisib (Max Phase 4),PI3Kα,-9.54,-7.92,-7.51,-7.94,-1.600,441.5,3.84,2,5,4,101.2,1.000,4,9
+CPD_0432,CHEMBL4098611,CC(=O)N1CCN(c2cccc(-c3cc(-c4ccnn4C4CC4)c4c(N)ncnn34)c2)CC1,research,PI3Kα,-10.47,-8.78,-8.94,-8.66,-1.525,442.5,2.85,1,6,4,97.6,0.273,4,5
+CPD_0332,CHEMBL5803519,CN(C(=O)c1ccco1)C1CCN(c2cccc(-c3cc(-c4ccnn4C4CCOCC4)c4c(N)ncnn34)c2)CC1,research,PI3Kβ,-9.91,-10.59,-9.95,-8.88,-0.640,566.7,4.53,1,8,6,120.0,0.083,3,5
+CPD_0045,CHEMBL4173039,Cc1ncc(-c2sc(NC(=O)CN)nc2C)cc1NS(=O)(=O)c1ccccc1,research,PI3Kβ,-8.54,-9.09,-7.99,-8.04,-0.550,417.5,2.52,3,7,6,127.1,0.111,5,4
+CPD_0307,CHEMBL4097699,CC(=O)N1CCN(c2cccc(-c3cc(-c4ccnn4C4CCOCC4)c4c(N)ncnn34)c2)C(C(F)(F)F)C1,research,PI3Kβ,-8.88,-9.89,-9.49,-9.41,-0.400,554.6,3.79,1,7,4,106.8,0.214,3,8
+CPD_0576,CHEMBL5870447,NC(=O)c1ccccc1-c1cc(-c2cc(-c3ccnn3C3CCOCC3)c3c(N)ncnn23)ccn1,research,PI3Kδ,-9.50,-9.74,-10.43,-9.58,-0.690,480.5,3.35,2,7,5,139.2,0.182,3,7
+CPD_0078,CHEMBL2322331,Cc1nn2c(O)cc(N3CCOCC3)nc2c1Cc1cccc(C(F)(F)F)c1C,research,PI3Kδ,-8.95,-9.16,-9.72,-8.83,-0.560,406.4,3.50,1,5,3,62.9,0.000,2,9
+CPD_0299,CHEMBL3900775,C[C@H](Nc1ncnc(N)c1C#N)c1nn2c(C(F)(F)F)ccc2c(=O)n1-c1ccccc1,research,PI3Kδ,-8.48,-8.15,-8.92,-8.00,-0.440,440.4,2.92,2,7,4,126.9,0.154,1,8
+CPD_0173,CHEMBL3643414,COc1ncc(N2CCc3ncnc(N[C@H]4CCN(C(=O)C5CCOCC5)C4)c3C2)cc1C,research,PI3Kγ,-9.05,-8.55,-8.29,-9.58,-0.530,452.6,2.19,1,8,5,92.7,0.154,4,9
+CPD_0359,CHEMBL4764632,CCc1nc2ccccc2n1-c1nc(N2CCOCC2)c2sc(CN3CCN(C4CCC(F)(F)CC4)CC3=O)cc2n1,research,PI3Kγ,-10.13,-9.46,-9.63,-10.54,-0.410,595.7,4.65,0,8,6,79.6,0.308,0,6
+CPD_0239,CHEMBL6029652,,research,PI3Kγ,-9.48,-8.86,-8.79,-9.88,-0.400,,,,,,,,0.154,3,7

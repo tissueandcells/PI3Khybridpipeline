@@ -1,0 +1,23 @@
+compound,layer,compound_class,smiles,chembl_id,chembl_pi3k_measurements,description
+imatinib,A,BCR-ABL kinase inhibitor,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1,CHEMBL941,none,Gleevec - Bcr-Abl/c-Kit/PDGFR
+gefitinib,A,EGFR inhibitor,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1,CHEMBL939,none,Iressa - EGFR
+erlotinib,A,EGFR inhibitor,COCCOc1cc2ncnc(Nc3cccc(C#C)c3)c2cc1OCCOC,CHEMBL553,none,Tarceva - EGFR
+sorafenib,A,multikinase inhibitor,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,CHEMBL1336,none,Nexavar - Raf/VEGFR/PDGFR
+sunitinib,A,VEGFR/PDGFR inhibitor,CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c1C,CHEMBL535,none,Sutent - VEGFR/PDGFR/c-Kit
+lapatinib,A,EGFR/HER2 inhibitor,CS(=O)(=O)CCNCc1oc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)cc1,CHEMBL554,none,Tykerb - EGFR/HER2
+dasatinib,A,BCR-ABL kinase inhibitor,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1,CHEMBL1421,none,Sprycel - Bcr-Abl/Src family
+nilotinib,A,BCR-ABL kinase inhibitor,Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1,CHEMBL255863,none,Tasigna - Bcr-Abl
+crizotinib,A,ALK/ROS1 inhibitor,C[C@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl,CHEMBL601719,none,Xalkori - ALK/ROS1/c-Met
+vemurafenib,A,BRAF inhibitor,CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F,CHEMBL1229517,none,Zelboraf - BRAF V600E
+sirolimus,B,mTOR inhibitor (allosteric FKBP12),mTOR_allosteric_SMILES,CHEMBL413,PI3Kα=7.05 (single),Rapamune - allosteric mTOR via FKBP12
+everolimus,B,mTOR inhibitor (allosteric FKBP12),everolimus_SMILES,CHEMBL1908360,none,Afinitor - allosteric mTOR
+torin1,B,mTOR/PI3K dual inhibitor,O=C(c1ccc2c(c1)ncc1c(-c3cccc(C(F)(F)F)c3)cc3c(=O)n(CCO)ccc3n21)N1CCOCC1,CHEMBL1852748,PI3Kα=6.60|PI3Kδ=6.25|PI3Kγ=6.77,Tool compound - genuinely cross-reactive
+AZD8055,B,mTOR inhibitor (ATP-competitive),COc1cc2c(N3CCOC[C@@H]3C)nc(-c3nc4ccc(CO)cc4[nH]3)nc2cc1OC,CHEMBL1950030,PI3Kα=5.40 (single),AZ - ATP-competitive mTOR
+aspirin,C,NSAID,CC(=O)Oc1ccccc1C(=O)O,CHEMBL25,none,Bayer Aspirin
+ibuprofen,C,NSAID,CC(C)Cc1ccc(C(C)C(=O)O)cc1,CHEMBL521,none,Advil/Motrin
+acetaminophen,C,analgesic,CC(=O)Nc1ccc(O)cc1,CHEMBL112,none,Tylenol
+diphenhydramine,C,antihistamine,CN(C)CCOC(c1ccccc1)c1ccccc1,CHEMBL657,none,Benadryl
+loratadine,C,antihistamine,CCOC(=O)N1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1,CHEMBL998,none,Claritin
+metformin,C,biguanide,CN(C)C(=N)N=C(N)N,CHEMBL1431,none,Glucophage - MW=129 OOD diagnostic case
+atorvastatin,C,statin,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CC[C@@H](O)C[C@@H](O)CC(=O)O,CHEMBL1487,none,Lipitor
+omeprazole,C,proton pump inhibitor,COc1ccc2[nH]c(S(=O)Cc3ncc(C)c(OC)c3C)nc2c1,CHEMBL1503,none,Prilosec

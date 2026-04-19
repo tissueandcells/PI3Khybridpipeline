@@ -1,0 +1,13 @@
+isoform,compound,reference_inhibitor,n_hbonds,n_hydrophobic_contacts,n_pharmacophore_features,overlap_2A_tolerance,shared_hbond_residues,shared_hydrophobic_fraction
+PI3Kα,CPD_0636,alpelisib,4,9,11,0.455,"VAL850,SER853",0.778
+PI3Kα,CPD_0015,alpelisib,4,9,11,1.000,"VAL850,SER853,GLN858",0.889
+PI3Kα,CPD_0432,alpelisib,4,5,10,0.273,"SER853",0.556
+PI3Kβ,CPD_0332,TGX-221,3,5,12,0.083,,0.556
+PI3Kβ,CPD_0045,TGX-221,5,4,9,0.111,,0.333
+PI3Kβ,CPD_0307,TGX-221,3,8,14,0.214,,0.778
+PI3Kδ,CPD_0576,idelalisib,3,7,11,0.182,,0.667
+PI3Kδ,CPD_0078,idelalisib,2,9,10,0.000,,0.833
+PI3Kδ,CPD_0299,idelalisib,1,8,13,0.154,,1.000
+PI3Kγ,CPD_0173,copanlisib,4,9,10,0.154,"LYS690,ASP821,VAL739",0.800
+PI3Kγ,CPD_0359,copanlisib,0,6,12,0.308,,0.500
+PI3Kγ,CPD_0239,copanlisib,3,7,11,0.154,"LYS690,ASP821",0.500

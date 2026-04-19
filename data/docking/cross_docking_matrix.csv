@@ -1,0 +1,9 @@
+compound,expected_selectivity,alpha_median_aff,beta_median_aff,delta_median_aff,gamma_median_aff,argmax_prediction,correct,delta_delta_G
+alpelisib,PI3Kα,-9.54,-7.92,-7.51,-7.94,PI3Kα,1,-1.60
+serabelisib,PI3Kα,-9.89,-8.66,-9.12,-9.65,PI3Kα,1,-0.24
+TGX-221,PI3Kβ,-8.65,-8.47,-8.43,-8.39,PI3Kα,0,-0.18
+AZD6482,PI3Kβ,-8.85,-8.46,-8.71,-8.30,PI3Kα,0,-0.14
+idelalisib,PI3Kδ,-8.44,-8.18,-8.59,-8.09,PI3Kδ,1,-0.14
+duvelisib,PI3Kδ,-9.23,-8.76,-9.04,-9.25,PI3Kγ,0,-0.02
+PI-103,pan,-9.15,-8.65,-8.53,-9.54,PI3Kγ,1,0.00
+copanlisib,pan,-8.20,-7.97,-7.97,-8.12,PI3Kα,1,0.00
