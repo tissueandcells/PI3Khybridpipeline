@@ -1,4 +1,4 @@
-# Hybrid Multi-task GNN and Ensemble Docking for Isoform-Selective PI3K Inhibitor Discovery
+Pre-registered Molecular Dynamics Validation Falsifies a Rigid-Docking Polar Triad and Reveals a Conserved HRD-Aspartate Anchor in Isoform-Selective PI3K Inhibitor Discovery
 
 [![License: CC-BY 4.0](https://img.shields.io/badge/License-CC--BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Code: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](https://opensource.org/licenses/MIT)
